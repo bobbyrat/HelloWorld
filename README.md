@@ -1,3 +1,3 @@
 # HelloWorld
-this is my first project. 
+This is my test project. 
 I added one line.
